@@ -1,0 +1,2 @@
+risoto;1,papa,4;2,cebolla,2
+asado;1,papa,6

@@ -1,0 +1,7 @@
+1,papa,4
+2,cebolla,2
+3,huevo,4
+4,morron,2
+5,tapa de tarta,1
+6,tomate,1
+7,lata atun,1
